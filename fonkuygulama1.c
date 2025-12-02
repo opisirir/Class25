@@ -60,6 +60,5 @@ int main() {
     printf("XC= %.4f ohm\n", XC);
     printf("Z= %.4f ohm\n", Z);
     printf("I= %.6f A\n", I);
-
     return 0;
 }   

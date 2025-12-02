@@ -1,7 +1,4 @@
 
-
-
-
 #include <stdio.h>
 #include <stdlib.h>
 
@@ -28,6 +25,5 @@ int main() {
 
     printf("Kelvin: %.2f\n", k);
     printf("Fahrenheit: %.2f\n", f);
-
     return 0;
 }
