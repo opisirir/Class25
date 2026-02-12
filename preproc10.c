@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 
-#define a 12
+#define V 12
 
 
 int main(){
